@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tech-people-app",
+    "slug": "tech-people-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
