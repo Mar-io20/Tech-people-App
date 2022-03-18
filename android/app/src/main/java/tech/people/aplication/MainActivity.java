@@ -1,4 +1,4 @@
-package com.techpeopleapp;
+package tech.people.aplication;
 
 import android.os.Build;
 import android.os.Bundle;
